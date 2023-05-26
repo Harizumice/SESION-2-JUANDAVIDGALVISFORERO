@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+.titles{
+    text-align: center;
+    color: #DE0242;
+    font-size: 57px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.parrafos{
+    margin:  17px;
+    padding: 17px;
+    text-align: left;
+    color: #DED018;
+    font-size:   17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+}
+
+.enlaces{
+    margin:  72px;
+    padding: 17px;
+    text-align: center;
+    color: #18B0DE;
+    font-size:   17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+
+body{
+    background-color: #911036;
+}
